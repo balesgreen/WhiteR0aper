@@ -2,11 +2,10 @@
 - Me chamo david
 - Tenho 14 anos
 - E atualmente estou estudando typescript
-<div>
-  <a href="https://github.com/WhiteR0aper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteR0aper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteR0aper&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+<a href="https://github.com/WhiteR0aper">
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteR0aper&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteR0aper&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="White-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="White-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
