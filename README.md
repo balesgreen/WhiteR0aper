@@ -1,8 +1,7 @@
 ### Opa eae
-- me chamo david
-- tenho 14 anos
-- e atualmente estou estudando typescript
-## e isso :)
+- Me chamo david
+- Tenho 14 anos
+- E atualmente estou estudando typescript
 <div>
   <a href="https://github.com/WhiteR0aper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteR0aper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
