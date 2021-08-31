@@ -1,6 +1,5 @@
 ### Opa eae
-- Me chamo david
-- Tenho 14 anos
+- Me chamo WhiteR0aper
 - E atualmente estou estudando typescript
 - Dev back end benevolence team
 
